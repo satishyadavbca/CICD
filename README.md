@@ -1,2 +1,1 @@
-# CICD
-Learn deployment cicd pipeline using github action
+# Level 2 CI/CD Project Template
