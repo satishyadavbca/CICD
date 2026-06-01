@@ -1,1 +1,1 @@
-# Level 2 CI/CD Project Template
+# CI/CD Project Template
